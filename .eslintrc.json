@@ -1,7 +1,6 @@
 {
   "extends": ["next/core-web-vitals", "next/typescript"],
   "rules": {
-    "rule-name": "off", // Example: Disables a specific rule
-    "another-rule": "warn" // Example: Sets a rule to 'warn' level
+    "no-console": "off"
   }
 }
