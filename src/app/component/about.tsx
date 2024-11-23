@@ -10,7 +10,7 @@ export default function About() {
                         <Image
                             className="object-cover object-center rounded mx-auto"
                             alt="img"
-                            src={require("../../../public/assests/ba.png")}
+                            src= "/assests/ba.png" 
                             width={400}
                             height={500}
                         />

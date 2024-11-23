@@ -3,7 +3,7 @@ import Link from "next/link";
 import { FaGithub } from "react-icons/fa";
 
 import { GrLinkedin } from "react-icons/gr";
- 
+
 import { SiGmail } from "react-icons/si";
 
 export default function Footer() {
@@ -18,7 +18,7 @@ export default function Footer() {
                             width={70}
                             height={70} />
                         <span className="ml-3 text-xl">Muneeba Arshad</span>
-                    </a>
+                    </a>ete 
                     <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
                         © 2024 Muneeba Arshad
                     </p>
@@ -34,8 +34,6 @@ export default function Footer() {
                             href={"https://www.linkedin.com/in/muneeba-arshad29/"} className="text-black ">
                             <GrLinkedin className="text-2xl  hover:text-[#0077B5]" />
                         </Link>
-
-                        
 
                     </span>
                 </div>

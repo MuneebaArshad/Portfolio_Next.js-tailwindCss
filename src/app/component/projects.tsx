@@ -26,7 +26,9 @@ export default function Projects() {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={require("../../../public/assests/projects/resume_build.png")}
+                  width={400}
+                  height={400}
+                  src="/assests/projects/resume_build.png"
                 />
                 {/* Overlay layer */}
                 <div className="absolute inset-0 bg-black bg-opacity-50 z-20 rounded-lg"></div>
@@ -60,7 +62,9 @@ export default function Projects() {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={require("../../../public/assests/projects/todo_html.jpeg")}
+                  width={400}
+                  height={400}
+                  src="/assests/projects/todo_html.jpeg"
                 />
                 {/* Overlay layer */}
                 <div className="absolute inset-0 bg-black bg-opacity-50 z-20 rounded-lg"></div>
@@ -106,7 +110,9 @@ export default function Projects() {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={require("../../../public/assests/projects/calculator_html.png")}
+                  width={400}
+                  height={400}
+                  src="/assests/projects/calculator_html.png"
                 />
                 {/* Overlay layer */}
                 <div className="absolute inset-0 bg-black bg-opacity-50 z-20 rounded-lg"></div>
@@ -141,7 +147,9 @@ export default function Projects() {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={require("../../../public/assests/projects/atm.jpg")}
+                  width={400}
+                  height={400}
+                  src="/assests/projects/atm.jpg" 
                 />
                 {/* Overlay layer */}
                 <div className="absolute inset-0 bg-black bg-opacity-50 z-20 rounded-lg"></div>
@@ -187,7 +195,9 @@ export default function Projects() {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={require("../../../public/assests/projects/todo_list.jpg")}
+                  width={400}
+                  height={400}
+                  src="/assests/projects/todo_list.jpg"
                 />
                 {/* Overlay layer */}
                 <div className="absolute inset-0 bg-black bg-opacity-50 z-20 rounded-lg"></div>
@@ -234,7 +244,9 @@ export default function Projects() {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={require("../../../public/assests/projects/ts_cal.png")}
+                  width={400}
+                  height={400}
+                  src="/assests/projects/ts_cal.png"
                 />
                 {/* Overlay layer */}
                 <div className="absolute inset-0 bg-black bg-opacity-50 z-20 rounded-lg"></div>
@@ -282,7 +294,9 @@ export default function Projects() {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={require("../../../public/assests/projects/NumberGuess.jpeg")}
+                  width={400}
+                  height={400}
+                  src="/assests/projects/NumberGuess.jpeg"
                 />
                 {/* Overlay layer */}
                 <div className="absolute inset-0 bg-black bg-opacity-50 z-20 rounded-lg"></div>
@@ -330,7 +344,9 @@ export default function Projects() {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={require("../../../public/assests/projects/c_d_t.png")}
+                  width={400}
+                  height={400}
+                  src="/assests/projects/c_d_t.png"
                 />
                 {/* Overlay layer */}
                 <div className="absolute inset-0 bg-black bg-opacity-50 z-20 rounded-lg"></div>
@@ -378,7 +394,9 @@ export default function Projects() {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={require("../../../public/assests/projects/Currency-converter.png")}
+                  width={400}
+                  height={400}
+                  src="/assests/projects/Currency-converter.png"
                 />
                 {/* Overlay layer */}
                 <div className="absolute inset-0 bg-black bg-opacity-50 z-20 rounded-lg"></div>

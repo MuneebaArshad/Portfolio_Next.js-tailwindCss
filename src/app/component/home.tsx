@@ -39,7 +39,7 @@ export default function Home() {
             alt="hero"
             width={400}
             height={400}
-            src={require("../../../public/assests/mee.jpg")}
+            src= "/assests/mee.jpg" 
           />
         </div>
       </div>
